@@ -2,7 +2,8 @@
 
 ## Description
 - What was your motivation?
-My motivation for this project was to build a simple logo maker that would allow a user to generate an svg logo for their company or organisation.
+My motivation for this project was to build a simple full stack note-taker which would allow me and other small business owners to input,
+save and review notes on different tasks they had to complete.
 
 - Why did you build this project? 
 ^
@@ -11,7 +12,8 @@ My motivation for this project was to build a simple logo maker that would allow
 ^
 
 - What did you learn?
-I learnt about generating svg files and class inheritance.
+I learnt about using expressjs to handle get, delete, and post requests for JSON data. I also learnt how to successfully create organise
+routes
 
 ## Installation
 
