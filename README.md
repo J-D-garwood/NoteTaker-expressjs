@@ -29,7 +29,7 @@ N/a
 
 ## link to deployed application
 
-N/a
+https://gentle-forest-87600-982310ed4a31.herokuapp.com/
 
 ## Screenshot of functional application
 
