@@ -17,7 +17,7 @@ routes
 
 ## Installation
 
-Navigate to github repo at https://github.com/J-D-garwood/NoteTaker-expressjs. Download all files (Main folder w/ server.js, package.json, package-lock.json, .gitignore file, and other folders w/ (db, helpers, node modules, public and routes))
+Navigate to github repo at https://github.com/J-D-garwood/NoteTaker-expressjs. Download all files (server.js, package.json, package-lock.json, .gitignore file, and other folders w/ (db, helpers, node modules, public and routes))
 
 ## Credits
 
@@ -33,5 +33,5 @@ N/a
 
 ## Screenshot of functional application
 
-[Deployed image 1](./Main/assets/Deployed_1.png)
-[Deployed image 2](./Main/assets/Deployed_2.png)
+[Deployed image 1](./assets/ssets/Deployed_1.png)
+[Deployed image 2](./assets/ssets/Deployed_2.png)
