@@ -1,13 +1,15 @@
+//importing
 const notes = require('express').Router();
 const uuid = require('../helpers/uuid');
 const { readFromFile, readAndAppend, writeToFile} = require('../helpers/fsUtils')
 
-
+//Handing notes get requests
 notes.get('/', (req, res) => {
     console.info(`${req.method} request received for notes`);
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
 });
 
+//Handing notes post requests
 notes.post('/', (req, res) => {
     console.info(`${req.method} request recieved to add a note`);
     console.log(req.body)
@@ -26,6 +28,7 @@ notes.post('/', (req, res) => {
     }
 })
 
+//Handing notes delete requests
 notes.delete('/:id', (req, res) => {
     console.info(`${req.method} request recieved to delete a note`);
     Noteid = req.params.id;
@@ -40,4 +43,5 @@ notes.delete('/:id', (req, res) => {
     })
 })
 
+//exporting for routing
 module.exports = notes;
