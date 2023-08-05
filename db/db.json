@@ -1,10 +1,5 @@
 [
     {
-        "title": "Clean pizza oven",
-        "text": "today",
-        "id": "a7e0"
-    },
-    {
         "title": "Fix wobbly table",
         "text": "with help from greg",
         "id": "1a3a"
@@ -23,5 +18,10 @@
         "title": "Interview for new waiter",
         "text": "Hope they won't be dummies",
         "id": "0987"
+    },
+    {
+        "title": "Clean Pizza Oven",
+        "text": "Before open",
+        "id": "20c9"
     }
 ]
