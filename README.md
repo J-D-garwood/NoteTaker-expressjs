@@ -12,7 +12,7 @@ save and review notes on different tasks they had to complete.
 ^
 
 - What did you learn?
-I learnt about using expressjs to handle get, delete, and post requests for JSON data. I also learnt how to successfully create organise
+I learnt about using expressjs to handle get, delete, and post requests for JSON data. I also learnt how to successfully create and organise
 routes
 
 ## Installation
