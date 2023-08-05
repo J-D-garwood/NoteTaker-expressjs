@@ -22,8 +22,9 @@ Navigate to github repo at https://github.com/J-D-garwood/NoteTaker-expressjs. D
 ## Credits
 
 No collaborators on this project however some code was sourced externally:
-- uuid code
-- promisified read and write mods
+- uuid code;
+- promisified read and write mods;
+
 sourced from bootcamp educational content
 
 ## License
